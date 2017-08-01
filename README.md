@@ -7,3 +7,6 @@ The traffic light system model mimics a real T-intersection. The  components imp
 * Motion sensor gate
 * Light dependent streetlights
 * Pedestrian crosswalk button
+
+## Screenshots
+![Traffic Lights](http://richarddang.com/images/portfolio/traffic-lights.jpg)
